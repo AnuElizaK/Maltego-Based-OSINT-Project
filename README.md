@@ -63,6 +63,6 @@ Alternatively, if you prefer to run it locally:
 ## Acknowledgments
 - **Maltego CE** for providing the core visualization platform.  
 - **SpiderFoot** for automated OSINT scanning capabilities.  
-- **Open-source data providers** such as Wikidata, Wikipedia, Congress.gov, CourtListener, and Freedom of the Press Foundation.  
+- **Open-source data providers** such as Wikidata, Congress.gov, CourtListener, and Freedom of the Press Foundation.  
 - **Faculty and mentors** for guidance in structuring and presenting the project.  
 - **GitHub** for hosting and sharing this project site.  
